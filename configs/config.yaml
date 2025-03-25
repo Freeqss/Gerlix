@@ -1,0 +1,3 @@
+jwt_secret: "super_secret_key"
+token_expiry: 15m
+refresh_expiry: 24h
